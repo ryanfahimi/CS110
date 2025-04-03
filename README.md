@@ -9,3 +9,5 @@ The course focused on foundational programming concepts using **Python**, includ
 - Iteration and recursion
 - Input/output operations
 - Functional decomposition and program design
+
+This repository includes worksheets and projects.
